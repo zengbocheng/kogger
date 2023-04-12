@@ -4,7 +4,10 @@ This is a very simple logger.
 
 # Install
 
-pip install git+https://github.com/zengbocheng/kogger.git
+```shell script
+pip install kogger
+# or pip install git+https://github.com/zengbocheng/kogger.git
+```
 
 # Usage
 There are two basic methods to use it.
