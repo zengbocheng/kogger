@@ -3,7 +3,7 @@
 @date: 2023/04/11
 @email: bochengzeng@bochengz.top
 """
-from logger.logger import Logger
+from kogger.logger import Logger
 
 default_logger = Logger()
 

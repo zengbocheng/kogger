@@ -11,7 +11,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="kogger",
-    version="0.1.1",
+    version="0.1.2",
     license='MIT',
     author="bochengz",
     author_email="bochengzeng@bochengz.top",
